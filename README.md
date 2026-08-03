@@ -1,10 +1,9 @@
-## Hi there 👋
 <p align="center">
   <img src="https://raw.githubusercontent.com/naderarrahman/naderarrahman/main/banner.png" alt="Nader Ar Rahman Banner" width="100%">
 </p>
 
 <br>
-# 💫 About Me:
+💫 About Me:
 👋 Hi, I'm **Nader Ar Rahman**.<br><br>🎓 Library & Information Science student with a passion for software development.<br><br>💻 Currently learning JavaScript, React, Node.js, Express.js, MongoDB, and Git.<br><br>🚀 Building practical projects to develop my full stack development skills.<br><br>🌱 Always learning, improving, and exploring new technologies.<br><br>🎯 Goal: Become a Full Stack Software Engineer and contribute to impactful products.
 
 
